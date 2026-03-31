@@ -1,13 +1,15 @@
-Student Details
+*Student Details*
 
 **Name: Riddhima Singh**
 
 **Roll Number: 24BCE10128**
 
-Chosen Software
+*Chosen Software*
+
 **Git**
 
-Scripts Overview
+*Scripts Overview*
+
 🔹 **Script 1** — System Identity Report
 
 Displays basic system information like kernel version, user, home directory, uptime, and date. It acts as a welcome screen for the Linux system.
@@ -29,29 +31,36 @@ Reads a log file line by line, counts how many times a keyword appears, and disp
 Takes user input and generates a personalized open-source philosophy statement, saving it to a text file.
 
 **How to Run the Scripts**
+
 1. Open Terminal / Git Bash
 Navigate to project folder:
 cd open-source-audit
-2. Make scripts executable
+
+3. Make scripts executable
 chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh
-3. Run each script
+
+5. Run each script
 Script 1:
 bash script1.sh
+
 Script 2:
 bash script2.sh
+
 Script 3:
 bash script3.sh
+
 Script 4:
 bash script4.sh sample.log ERROR
+
 Script 5:
 bash script5.sh
 
-Dependencies
+*Dependencies*
 Bash shell
 Basic Linux commands (echo, grep, awk, cut, du, ls)
 Git Bash 
 
-Notes
+*Notes*
 Script 4 requires a log file (e.g., sample.log)
 Some commands may behave differently in Git Bash compared to Linux
 All scripts are tested in Git Bash environment
