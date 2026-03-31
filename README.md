@@ -1,14 +1,14 @@
-*Student Details*
+*Student Details:*
 
 **Name: Riddhima Singh**
 
 **Roll Number: 24BCE10128**
 
-*Chosen Software*
+*Chosen Software:*
 
 **Git**
 
-*Scripts Overview*
+*Scripts Overview:*
 
 🔹 **Script 1** — System Identity Report
 
@@ -40,6 +40,7 @@ cd open-source-audit
 chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh
 
 5. Run each script
+
 Script 1:
 bash script1.sh
 
