@@ -1,0 +1,17 @@
+Open Source Manifesto
+Generated on: 31 March 2026
+============================================
+
+I believe in the power of open source.
+Every day I rely on git — a tool built openly and shared freely by
+people who believed that knowledge belongs to everyone.
+
+To me, freedom means choice.
+That is the same freedom that open source so ware protects —
+the freedom to use, study, modify, and share without restric on.
+
+If I could build and share one thing freely, it would be Planner App.
+Because standing on the shoulders of giants means giving back
+so that others can stand on yours.
+
+============================================
